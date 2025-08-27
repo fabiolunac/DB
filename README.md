@@ -9,8 +9,8 @@ Ele permite **adicionar novas linhas** com dados de gastos e visualizar a tabela
 
 - Inserir novas entradas na planilha (`ControleMensal_v2.xlsx`):
   - Data (no formato `ddmm`, ex.: `2408` → 24/08/2025)
-  - Tipo (ex.: `Out`, `Ent`)
-  - Valor original + moeda
+  - Tipo (ex.: `Out`, `In`)
+  - Valor em Euro, se houver.
   - Valor em CHF
   - Local
   - Descrição
